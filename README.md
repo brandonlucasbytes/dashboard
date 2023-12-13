@@ -1,4 +1,4 @@
-# Interactive Admin Dashboard
+# Interactive Data Dashboard
 
 **Comprehensive Data Visualization and Analysis**
 
