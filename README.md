@@ -4,7 +4,7 @@
 
 ## Key Features
 
-- **Data Visualization:** Harnesses Recharts for rich data representation.
+- **Data Visualization:** Harnesses modern JavaScript data visualization libraries for rich data representation.
 - **React Query Utilization:** Efficient data fetching and responsiveness.
 - **Responsive Design:** Seamless usability across devices.
 
