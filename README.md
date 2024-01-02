@@ -10,6 +10,6 @@
 
 ## Technical Highlights
 
-- **Full-stack Functionality:** Integrated front-end and back-end.
-- **Asynchronous Programming:** Enhanced performance with async operations.
+- **Full-stack Functionality:** Developed optimal front-end and back-end interactions.
+- **Asynchronous Programming:** Enhanced performance with async operations, for an uninterrupted interactive user interface.
 - **Dynamic Routing:** Flexible navigation for smooth user interaction.
